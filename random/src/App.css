@@ -1,0 +1,30 @@
+.App {
+  text-align: center;
+  background-color: rgb(213, 132, 224);
+  display: flex;
+  min-height: 100vh;
+}
+
+.main{
+  width: 100%;
+  max-width: 600px;
+  height: 250px;
+  margin: auto;
+  /* background-color: black; */
+  color: aliceblue;
+  align-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  /* margin-top: 100px;  */
+}
+
+.auther{
+  margin-left: 200px;
+  font-size: 0.8rem;
+  background-color: blue;
+}
+
+.next{
+  margin-bottom: 20px;
+}
